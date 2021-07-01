@@ -1,0 +1,173 @@
+body{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.topo{
+    border: solid 3px black;
+}
+.naveg{
+    width: 100vw;
+    height: 30vh;
+   display: inline-block; 
+    background: 	#fff;
+}
+.geral{
+    display: flex;
+    
+    flex-wrap: wrap;
+    
+}
+.img_logo{
+    margin-left:20px;
+}
+.capa{
+    position: absolute;
+    top:8px;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}
+.ima_capa{
+    width: 30vw;
+    height: 30vh;
+   position: absolute;
+   left: 450px;
+   top:-5px;
+}
+.p1{
+    margin-right: 20px;
+    font-size: 25px;
+   position: absolute;
+   display: flex;
+   text-align: center;
+   right: 35px;
+   top: 55px;
+   color:#708090;
+   cursor: pointer;
+
+   
+}
+.ajuda{
+    text-decoration: none;
+    margin-right: 15px;
+    color: #008080;
+}
+.entrar{
+    margin-right: 15px;
+    text-decoration: none;
+    color: #008080;
+}
+.sobre{
+    margin-left: 15px;
+    text-decoration: none;
+    color: #008080;
+}
+/*Capa Natal*/
+
+.imanat{
+    width: 100vw;
+    height: 70%;
+}
+.pa1{
+    color: white;
+    position: absolute;
+    margin-left: 3px;
+    cursor: pointer;
+}
+.viag{
+    display: flex;
+    position: absolute;
+    top:550px;
+    left: 100px;
+    background-color: 	#9370DB;
+    width: 85vw;
+    height: 15%;
+    border-radius: 8px;
+}
+.viag1{
+        display: flex;
+        width: 20%;
+        height: 50%;
+        margin-top: 30px;
+        margin-left: 20px;
+        border-radius: 30px;
+        padding: 0%;
+        outline: none;
+       
+}
+.viagii{
+    display: flex;
+    position: absolute;
+    top:550px;
+    left: 500px;
+    background-color: 	#9370DB;
+    width: 85vw;
+    height: 15%;
+    border-radius: 8px;
+}
+.viag2{
+    display: flex;
+    width: 20%;
+    height: 50%;
+    margin-top: 30px;
+    margin-left: 20px;
+    border-radius: 30px;
+    padding: 0%;
+    outline: none;
+   
+}
+.ori{
+    font-size: 15px;
+    text-align: center;
+}
+.ori2{
+    font-size: 15px;
+    text-align: center;
+}
+/*Primeiro article*/
+
+.bloc1{
+    width: 95vw;
+    margin-left: 10px;
+    padding-top: 3px;
+    font-size: 20px;
+    background-color: #FFDEAD;
+    border-radius: 8px;
+}
+.p2{
+    padding: 20px;
+    font-size: 25px;
+}
+.bloquinho{
+    border: solid 1px black;
+    width: 70%;
+    background-color: #DCDCDC;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+
+}
+.imabloc2{
+    height: 75%;
+   
+    
+}
+.imaqua{
+    width: 100%;
+    border-bottom: solid 1px black;
+    border-top-left-radius : 10px;
+    border-top-right-radius: 10px;
+}
+.notag{
+    background-color: #008080;
+    color:white;
+    padding: 2px;
+}
+.bloc2{
+    display: flex;
+}
+.texhot1{
+    margin-left: 5px;
+}

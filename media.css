@@ -1,0 +1,329 @@
+@media (min-width: 800px) and (max-width:1000px){
+.geral{
+    height: 50vh;
+}
+.img_logo{
+    
+    top: 5px;
+    height: 40%;
+}
+.ima_capa{
+    display: none;
+}
+.p1{
+    position: absolute;
+    top:30px;
+    flex-direction: column;
+}
+.ajuda{
+    text-decoration: none;
+    margin-right: 15px;
+    color: #008080;
+    margin-bottom: 20px;
+}
+.entrar{
+    margin-right: 15px;
+    text-decoration: none;
+    color: #008080;
+    margin-bottom: 20px;
+}
+.sobre{
+    margin-left: 15px;
+    text-decoration: none;
+    color: #008080;
+    margin-bottom: 20px;
+}
+.casal{
+    display: none;
+}
+.las{
+    position: relative;
+    margin-bottom: 35px;
+    height: 20%;
+    
+}
+.cas{
+    display: none;
+}
+.cassi{
+    height: 100%;
+}
+.promo{
+    top:30px;
+    left:  450px;
+    display: none;
+}
+.botg{
+    position: absolute;
+    left: -150px;
+    display: none;
+    
+}
+.rec{
+    width: 200vw;
+    margin-right: 50px;
+    height: 80vh;
+}
+.rec_ger{
+    margin-left: 90px;
+    width: 80vw;
+}
+.text4{
+    color: black;
+}
+
+}
+@media (min-width: 1001px) and (max-width: 1500px){
+    .geral{
+        height: 50vh;
+    }
+    .img_logo{
+        
+        top: 5px;
+        height: 40%;
+    }
+    .ima_capa{
+        display: none;
+    }
+    .p1{
+        position: absolute;
+        top:100px;
+        flex-direction: column;
+    }
+    .ajuda{
+        text-decoration: none;
+        margin-right: 15px;
+        color: #008080;
+        margin-bottom: 20px;
+    }
+    .entrar{
+        margin-right: 15px;
+        text-decoration: none;
+        color: #008080;
+        margin-bottom: 20px;
+    }
+    .sobre{
+        margin-left: 15px;
+        text-decoration: none;
+        color: #008080;
+        margin-bottom: 20px;
+    }
+    .cas{
+        display: none;
+    }
+    .casal{
+        display: none;
+    }
+    .las{
+        position: relative;
+        margin-bottom: 35px;
+        height: 20%;
+        
+    }
+    .cassi{
+        height: 100%;
+    }
+    .promo{
+        top:30px;
+        left:  550px;
+    }
+    .botg{
+        position: absolute;
+        left: -100px;
+        display: none;
+        
+    }
+    .rec{
+        width: 80%;
+        margin-right: 50px;
+        height: 60vh;
+    }
+    .rec_ger{
+        margin-left: 90px;
+        width: 80vw;
+    }
+    .text4{
+        color: black;}
+    }
+    @media (min-width: 1501px) and (max-width: 2000px){
+        .geral{
+            height: 50vh;
+        }
+        .img_logo{
+            
+            top: 5px;
+            height: 40%;
+        }
+        .ima_capa{
+            display: none;
+        }
+        .p1{
+            position: absolute;
+            top:70px;
+            flex-direction: column;
+        }
+        .ajuda{
+            text-decoration: none;
+            margin-right: 15px;
+            color: #008080;
+            margin-bottom: 20px;
+        }
+        .entrar{
+            margin-right: 15px;
+            text-decoration: none;
+            color: #008080;
+            margin-bottom: 20px;
+        }
+        .sobre{
+            margin-left: 15px;
+            text-decoration: none;
+            color: #008080;
+            margin-bottom: 20px;
+        }
+        .cas{
+            display: none;
+        }
+        .casal{
+            display: none;
+        }
+        .las{
+            position: relative;
+            margin-bottom: 35px;
+            height: 20%;
+            
+        }
+        .cassi{
+            height: 100%;
+        }
+        .promo{
+            top:30px;
+            left:  550px;
+        }
+        .botg{
+            position: absolute;
+            left: -100px;
+            display: none;
+            
+        }
+        .rec{
+            width: 80%;
+            margin-right: 50px;
+            height: 60vh;
+        }
+        .rec_ger{
+            margin-left: 90px;
+            width: 80vw;
+        }
+        .text4{
+            color: black;}
+        }
+
+        @media (min-width: 2001px) and (max-width: 3000px){
+            .geral{
+                width: 100%;
+                height: 50vh;
+            }
+            .banner{
+                width: 100vw;
+            }
+            .topo{
+                width: 100%;
+            }
+            .nav{
+                padding: 0%;
+                height: 30%;
+                margin: 0%;
+            }
+            .img_logo{
+                
+                top: 5px;
+                height: 40%;
+            }
+            .ima_capa{
+            display: none;
+            }
+            .p1{
+                position: absolute;
+                top:70px;
+                flex-direction: flex;
+            }
+            .ajuda{
+                text-decoration: none;
+                margin-right: 15px;
+                color: #008080;
+                margin-bottom: 20px;
+            }
+            .entrar{
+                margin-right: 15px;
+                text-decoration: none;
+                color: #008080;
+                margin-bottom: 20px;
+            }
+            .sobre{
+                margin-left: 15px;
+                text-decoration: none;
+                color: #008080;
+                margin-bottom: 20px;
+            }
+            .cas{
+                width: 30%;
+                height: 40%;
+            }
+            .casal{
+                
+            }
+            .las{
+                position: relative;
+                margin-bottom: 35px;
+                height: 20%;
+                
+            }
+            .viagens{
+               margin-left:85px ;
+               box-shadow: 5px 5px 5px gray; 
+            }
+            .rec_ger{
+                margin-right: 0%;
+                height: 20%;
+            }
+            .rec{
+                height: 20%;
+            }
+            .cassi{
+                height: 100%;
+            }
+            .promo{
+                top:30px;
+                left:  550px;
+            }
+            .botg{
+                position: absolute;
+                left: 250px;
+                top: -50px;
+                
+                
+            }
+            .rec{
+                width: 80%;
+                margin-right: 50px;
+                height: 60vh;
+            }
+            .rec_ger{
+                margin-left: 90px;
+                width: 80vw;
+            }
+            .text4{
+                color: black;
+                font-size: 25px;
+             }
+             .apro{
+                 font-size: 40px;
+             }
+             .pg{
+                 font-size: 25px;
+             }
+             .img_rio{
+                 margin-left: 20px;
+                 box-shadow: 5px 5px 4px gray;
+             }
+    }

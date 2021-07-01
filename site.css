@@ -1,0 +1,411 @@
+body{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img_logo{
+    margin-left:40px;
+}
+.las{
+    width: 100vw;
+    height: 100vh;
+    display: inline-block;
+    border: solid 1px black;
+    
+}
+.cassi{
+    width: 100vw;
+    height: 95vh;
+    box-shadow: 15px 15px 10px  	#F4A460;
+}
+.cas{
+    border: solid 2px black;
+    border-radius: 70%;
+    width: 50%;
+    margin: 50px;
+    position: absolute;
+    top: 280px;
+    right: -20px;
+    transform: rotate(15deg)
+    
+}
+.casal{
+    width: 100%;
+    height: 100%;
+    border-radius: 60%
+}
+.capa{
+    position: absolute;
+    top:8px;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}
+.promo{
+    font-size: 30px;
+    position: absolute;
+    top: 350px;
+    left: -50px;
+    text-align: center;
+    align-items: center;
+    line-height: 30px;
+    background-color: #DCDCDC;
+    width: 40vw;
+    height: 10vh;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px #000000;
+    
+}
+.prom1{
+    background-color: #836FFF;
+    border-radius: 50px;
+    position: absolute;
+    left: 20px;
+    color:white;
+    width: 70%;
+    box-shadow: 5px 5px 10px #708090;
+}
+.prom2{
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    background-color: #836FFF;
+    color: white;
+    border-radius: 50px;
+    width: 50%;
+    box-shadow: 5px 5px 5px #708090;
+}
+.topo{
+    border: solid 3px black;
+}
+.ima_capa{
+    width: 30vw;
+    height: 30vh;
+   position: absolute;
+   left: 450px;
+   top:-5px;
+}
+.cabeca{
+width: 100%;
+
+}
+.geral{
+    display: flex;
+    width: 90vw;
+    flex-wrap: wrap;
+    
+}
+.viagens{
+   align-items: center;
+   justify-content: center;
+    height:410px;
+    border: solid 2px grey;
+    border-radius: 2%;
+    background-color: white;
+    margin: 15px;
+    
+    text-decoration: none;
+}
+.naveg{
+    width: 100vw;
+    height: 30vh;
+   display: inline-block; 
+    background: 	#fff;
+}
+.p1{
+    margin-right: 20px;
+    font-size: 25px;
+   position: absolute;
+   display: flex;
+   text-align: center;
+   right: 35px;
+   top: 55px;
+   color:#708090;
+   cursor: pointer;
+
+   
+}
+.ajuda{
+    text-decoration: none;
+    margin-right: 15px;
+    color: #008080;
+}
+.entrar{
+    margin-right: 15px;
+    text-decoration: none;
+    color: #008080;
+}
+.sobre{
+    margin-left: 15px;
+    text-decoration: none;
+    color: #008080;
+}
+.painel{
+    display: flex;
+    overflow-x: auto;
+    width: 100vw;
+ background-color: #a780ff;
+ 
+}
+.bot{
+    position: absolute;
+    top: 100px;
+    left: 350px;
+    width: 140px;
+    height: 50px;
+}
+.botg{
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+    background-color: #a780ff;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.ima{
+    cursor: pointer;
+    border-bottom: 2%;
+}
+.text{
+   margin-left: 10px;
+}
+.para{
+    color: #708090;
+}
+.nota{
+    background-color: 	#008B8B;
+    color: white;
+    border-radius: 5px;
+    margin-left: 5px;
+    padding: 2px;
+}
+
+.buffet{
+    border:solid 1px #708090;
+    background-color: #836FFF;
+    color: white;
+    border-radius: 3px;
+    margin-left: 3%;
+    margin-top: 3%;
+    padding: 1%;
+    width: 55%;
+}
+.noite{
+    background-color: #836FFF;
+    color: white;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-top: -1px;
+    padding: 5px;
+    display: inline-block;
+}
+.real{
+    background-color:#836FFF;
+    color: white;
+    border-radius: 5px;
+    margin-left:60px; 
+    margin-top: 10px;
+    padding: 5px;
+    
+}
+.pq{
+    margin-top: 0%;
+    padding: 0px;
+    font-size: 14px
+}
+/*Segundo article*/
+
+.box_ger{
+    background-color:#ffe3e0;
+    width: 97vw;
+    display: flex;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.box{
+    width: 45%;
+}
+.natal{
+    width: 45vw;
+    margin-right: 10px;
+    padding: 0%;
+}
+.box2{
+margin-left: 15px;
+}
+.foz{
+    width: 24vw;
+    height: 89%;
+    margin-left: 15px;
+    padding: 0%;
+}
+/*Terceiro article*/
+
+.rec_ger{
+    display: flex;
+    margin-top: 7px;
+    margin-bottom: 20px;
+    width: 100vw;
+    
+}
+.rec{
+    border: solid 1px black;
+    border-radius: 15px;
+    width: 30vw;
+    height: 30vh;
+    margin-left: 30px;
+    display: block;
+    flex-direction: column;
+    padding: 10px;
+    box-shadow:20px 20px 10px 	#836FFF;
+    background-color: 	#F8F8FF;
+    top: 100px;
+    left: -200px;
+    position: relative;
+    
+}
+.reco{
+    background-color: #E6E6FA;
+    position: relative;
+}
+.recom{
+    display: flex;
+    font-size: 25px;
+    margin: 10px;
+    color: 	#9932CC;
+}
+.tex{
+    font-size: 25px;
+    color: #708090;
+    
+}
+.tex2{
+    color: #4F4F4F;
+}
+.rec_sp{
+    margin-top:25px;
+    margin-left: 8px;
+    background-color: #00FFFF;
+    border-radius: 15px;
+    padding: 5px;
+}
+/*Quarto article*/
+.banner2{
+    display: flex;
+   
+}
+.rio{
+    padding-left: 35px;
+    margin-top: 15%;
+    overflow-x: auto;
+    display: flex;
+   
+    
+}
+.but2{
+    position: absolute;
+     bottom:-1650px;
+     left: 100px;
+     width: 100px;
+}
+.butfinal{
+    width: 200px;
+    height: 60px;
+    border-radius: 45%;
+    background-color: 	#00BFFF;
+    color: white;
+    cursor: pointer;
+    font-size: 25px;
+    
+    
+}
+
+.img_rio{
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 120%;
+    border: solid 2px black;
+    background-color: 	#A9A9A9;
+    margin-bottom: 20px;
+    
+   
+}
+.riofoto{
+    
+    width: 100%;
+    height: 80%;
+    border-bottom: solid 2px black;
+   
+}
+.tex3{
+    background-color:	#A9A9A9;
+    color: white;
+    cursor: pointer;
+}
+.tex4{
+    background-color:	#A9A9A9;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+}
+.n2{
+    font-size: 15px;
+    width: 25PX;
+}
+.fim{
+    display: inline-flex;
+    position: absolute;
+    left: 100px;
+    margin-top: 50px;
+    width: 70vw;
+}
+.paises{
+    display: inline-block;
+    width: 50vw;
+    font-size: 20px;
+}
+.apre{
+    display: inline-block;
+    width: 70vw;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    margin-bottom: 50px;
+}
+
+/*Footer*/
+
+.lin{
+    width: 70%;
+    height: 40%;
+border: solid 1px black;
+cursor: pointer;
+font-size: 30px;
+text-align: center;
+line-height: 25px;
+background-color: #191970;
+color: white;
+justify-content: center;
+line-height: 60px;
+}
+.git{
+    width: 70%;
+    height: 40%;
+    border: solid 1px black;
+cursor: pointer;
+font-size: 20px;
+text-align: center;
+line-height: 60px;
+background-color: #000000;
+color: white;
+font-size: 25px;
+text-decoration: none;
+justify-content: center;
+}
+.lk{
+    text-decoration: none;
+}
